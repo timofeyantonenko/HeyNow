@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">HeyNow</string>
+    <string name="Client_ID">1f0d434802af4f14a14582a5fecf4d38</string>
+    <string name="Client_Secret">3b019ea500aa4532853b469695464c39</string>
+    <string name="provider_gps">GPS</string>
+    <string name="provider_network">Network</string>
+    <string name="location_settings">Location settings</string>
+    <string name="hello_world">hello</string>
+    <string name="action_settings">설정</string>
+    <string name="drawer_item_home">홈</string>
+    <string name="drawer_item_google_map">+GoogleMap/시간</string>
+    <string name="drawer_item_custom">Insta/VK</string>
+    <string name="drawer_item_settings">또한</string>
+    <string name="drawer_item_social">Instagram+</string>
+    <string name="drawer_item_data_base">장소</string>
+    <string name="drawer_item_contact">접촉</string>
+    <string name="title_activity_main2">Main2</string>
+    <string name="vk_app_id">4920372</string>
+    <string name="insta_app_id">1f0d434802af4f14a14582a5fecf4d38</string>
+    <string name="insta_client_secret">3b019ea500aa4532853b469695464c39</string>
+    <string name="twitter_consumer_key">cfHseVU774zxefcBuonfWQXvb</string>
+    <string name="twitter_consumer_secret">itc3Lc4K4zDz7bqW9TtmuQA14Rb1bQZ0hVOOVN2ySEQp36VplV</string>
+    <string name="flickr_api_key">895c7a480e099274dbd193917162e3f3</string>
+    <string name="flickr_secret">ec59f4bace928859</string>
+    <string name="def_radius">기본 반경 :</string>
+    <string name="max_radius">최대 반경 :</string>
+    <string name="time_apply">적용</string>
+    <string name="place_name">이름: </string>
+    <string name="place_lication">위치: </string>
+    <string name="place_longitude">경도: </string>
+    <string name="tplace_latitude">위도: </string>
+    <string name="logout_button">로그 아웃</string>
+
+
+
+
+     <string name="some_text">
+     내 위치
+ </string>
+ <string name="some_hint">
+  필터링 입력&#8230;
+ </string>
+
+
+    <string name="item1">항목 1</string>
+    <string name="item2">항목 2</string>
+    <string name="item3">항목 3</string>
+    <string name="item4">항목 4</string>
+    <string name="share_button">몫</string>
+    <string name="view_page">보기 페이지</string>
+    <string name="map_radius">반지름:</string>
+    <string name="date_slide">날짜</string>
+    <string name="map_slide">지도</string>
+    <string name="begin_date">시작</string>
+    <string name="end_date">끝</string>
+    <string name="date_text">날짜</string>
+    <string name="time_btn">시간</string>
+    <string name="drawer_item_rate_us">우리 평가</string>
+    <string name="place_input_message">새 이름을 입력합니다 :</string>
+    <string name="banner_ad_unit_id">ca-app-pub-6861393331666165/8787655136</string>
+
+</resources>

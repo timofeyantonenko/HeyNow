@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">HeyNow</string>
+    <string name="Client_ID">1f0d434802af4f14a14582a5fecf4d38</string>
+    <string name="Client_Secret">3b019ea500aa4532853b469695464c39</string>
+    <string name="provider_gps">GPS</string>
+    <string name="provider_network">Network</string>
+    <string name="location_settings">Location settings</string>
+    <string name="hello_world">hello</string>
+    <string name="action_settings">الإعدادات</string>
+    <string name="drawer_item_home">منزل</string>
+    <string name="drawer_item_google_map">+GoogleMap/مرة</string>
+    <string name="drawer_item_custom">Insta/VK</string>
+    <string name="drawer_item_settings">بالإضافة إلى ذلك</string>
+    <string name="drawer_item_social">Instagram+</string>
+    <string name="drawer_item_data_base">الأماكن</string>
+    <string name="drawer_item_contact">اتصال</string>
+    <string name="title_activity_main2">Main2</string>
+    <string name="vk_app_id">4920372</string>
+    <string name="insta_app_id">1f0d434802af4f14a14582a5fecf4d38</string>
+    <string name="insta_client_secret">3b019ea500aa4532853b469695464c39</string>
+    <string name="twitter_consumer_key">cfHseVU774zxefcBuonfWQXvb</string>
+    <string name="twitter_consumer_secret">itc3Lc4K4zDz7bqW9TtmuQA14Rb1bQZ0hVOOVN2ySEQp36VplV</string>
+    <string name="flickr_api_key">895c7a480e099274dbd193917162e3f3</string>
+    <string name="flickr_secret">ec59f4bace928859</string>
+    <string name="def_radius">دائرة نصف قطرها:</string>
+    <string name="max_radius">Max دائرة نصف قطرها:</string>
+    <string name="time_apply">تطبق</string>
+    <string name="place_name">الاسم:</string>
+    <string name="place_lication">ا لموقع:</string>
+    <string name="place_longitude">خ ط الطول:</string>
+    <string name="tplace_latitude">خط العرض:</string>
+    <string name="logout_button">خروج</string>
+
+
+
+
+     <string name="some_text">
+     أماكني
+ </string>
+ <string name="some_hint">
+  اكتب هنا للتصفية&#8230;
+ </string>
+
+
+    <string name="item1">بند1</string>
+    <string name="item2">بند2</string>
+    <string name="item3">بند3</string>
+    <string name="item4">بند4</string>
+    <string name="share_button">حصة</string>
+    <string name="view_page">عرض الصفحة</string>
+    <string name="map_radius">دائرة نصف قطرها:</string>
+    <string name="date_slide">تاريخ</string>
+    <string name="map_slide">خريطة</string>
+    <string name="begin_date">ابدأ</string>
+    <string name="end_date">النهاية</string>
+    <string name="date_text">تاريخ</string>
+    <string name="time_btn">مرة</string>
+    <string name="drawer_item_rate_us">معدل بالنسبة لنا</string>
+    <string name="place_input_message">اكتب اسم جديد:</string>
+    <string name="banner_ad_unit_id">ca-app-pub-6861393331666165/8787655136</string>
+
+</resources>

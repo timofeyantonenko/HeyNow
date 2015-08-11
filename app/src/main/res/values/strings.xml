@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">HeyNow</string>
+    <string name="Client_ID">1f0d434802af4f14a14582a5fecf4d38</string>
+    <string name="Client_Secret">3b019ea500aa4532853b469695464c39</string>
+    <string name="provider_gps">GPS</string>
+    <string name="provider_network">Network</string>
+    <string name="location_settings">Location settings</string>
+    <string name="hello_world">hello</string>
+    <string name="action_settings">Settings</string>
+    <string name="drawer_item_home">Home</string>
+    <string name="drawer_item_google_map">+GoogleMap/Time</string>
+    <string name="drawer_item_custom">Insta/VK</string>
+    <string name="drawer_item_settings">Additionally</string>
+    <string name="drawer_item_social">Instagram+</string>
+    <string name="drawer_item_data_base">Places</string>
+    <string name="drawer_item_contact">Contact</string>
+    <string name="title_activity_main2">Main2</string>
+    <string name="vk_app_id">4920372</string>
+    <string name="insta_app_id">1f0d434802af4f14a14582a5fecf4d38</string>
+    <string name="insta_client_secret">3b019ea500aa4532853b469695464c39</string>
+    <string name="twitter_consumer_key">cfHseVU774zxefcBuonfWQXvb</string>
+    <string name="twitter_consumer_secret">itc3Lc4K4zDz7bqW9TtmuQA14Rb1bQZ0hVOOVN2ySEQp36VplV</string>
+    <string name="flickr_api_key">895c7a480e099274dbd193917162e3f3</string>
+    <string name="flickr_secret">ec59f4bace928859</string>
+    <string name="def_radius">Default radius:</string>
+    <string name="max_radius">Max radius:</string>
+    <string name="time_apply">Apply</string>
+    <string name="place_name">Name: </string>
+    <string name="place_lication">Location: </string>
+    <string name="place_longitude">Longitude: </string>
+    <string name="tplace_latitude">Latitude: </string>
+    <string name="logout_button">Logout</string>
+
+
+
+
+     <string name="some_text">
+     My Places
+ </string>
+ <string name="some_hint">
+  Type here to filter&#8230;
+ </string>
+
+
+    <string name="item1">Item1</string>
+    <string name="item2">Item2</string>
+    <string name="item3">Item3</string>
+    <string name="item4">Item4</string>
+    <string name="share_button">Share</string>
+    <string name="view_page">View page</string>
+    <string name="map_radius">Radius:</string>
+    <string name="date_slide">DATE</string>
+    <string name="map_slide">MAP</string>
+    <string name="begin_date">Begin date</string>
+    <string name="end_date">End date</string>
+    <string name="date_text">Date</string>
+    <string name="time_btn">Time</string>
+    <string name="drawer_item_rate_us">Rate us</string>
+    <string name="place_input_message">Type new name: </string>
+    <string name="banner_ad_unit_id">ca-app-pub-6861393331666165/8787655136</string>
+
+
+</resources>

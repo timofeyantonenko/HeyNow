@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">HeyNow</string>
+    <string name="Client_ID">1f0d434802af4f14a14582a5fecf4d38</string>
+    <string name="Client_Secret">3b019ea500aa4532853b469695464c39</string>
+    <string name="provider_gps">GPS</string>
+    <string name="provider_network">Network</string>
+    <string name="location_settings">Location settings</string>
+    <string name="hello_world">hello</string>
+    <string name="action_settings">設置</string>
+    <string name="drawer_item_home">畫廊</string>
+    <string name="drawer_item_google_map">+GoogleMap/時間</string>
+    <string name="drawer_item_custom">Insta/Vk</string>
+    <string name="drawer_item_settings">另外</string>
+    <string name="drawer_item_social">Instagram+</string>
+    <string name="drawer_item_data_base">地方</string>
+    <string name="drawer_item_contact">聯繫</string>
+    <string name="title_activity_main2">Main2</string>
+    <string name="vk_app_id">4920372</string>
+    <string name="insta_app_id">1f0d434802af4f14a14582a5fecf4d38</string>
+    <string name="insta_client_secret">3b019ea500aa4532853b469695464c39</string>
+    <string name="twitter_consumer_key">cfHseVU774zxefcBuonfWQXvb</string>
+    <string name="twitter_consumer_secret">itc3Lc4K4zDz7bqW9TtmuQA14Rb1bQZ0hVOOVN2ySEQp36VplV</string>
+    <string name="flickr_api_key">895c7a480e099274dbd193917162e3f3</string>
+    <string name="flickr_secret">ec59f4bace928859</string>
+    <string name="def_radius">默認半徑：</string>
+    <string name="max_radius">最大半徑：</string>
+    <string name="time_apply">申請</string>
+    <string name="place_name">姓名：</string>
+    <string name="place_lication">地點：</string>
+    <string name="place_longitude">經度：</string>
+    <string name="tplace_latitude">緯度：</string>
+    <string name="logout_button">註銷</string>
+
+
+
+
+     <string name="some_text">
+     我的位置
+ </string>
+ <string name="some_hint">
+  在這裡輸入過濾&#8230;
+ </string>
+
+
+    <string name="item1">項目1</string>
+    <string name="item2">項目2</string>
+    <string name="item3">項目3</string>
+    <string name="item4">項目4</string>
+    <string name="share_button">共享</string>
+    <string name="view_page">查看網頁</string>
+    <string name="map_radius">半徑：</string>
+    <string name="date_slide">日期</string>
+    <string name="map_slide">地圖</string>
+    <string name="begin_date">開始</string>
+    <string name="end_date">結束</string>
+    <string name="date_text">日期</string>
+    <string name="time_btn">時間</string>
+    <string name="drawer_item_rate_us">為我們投票</string>
+    <string name="place_input_message">輸入新的名稱：</string>
+    <string name="banner_ad_unit_id">ca-app-pub-6861393331666165/8787655136</string>
+
+</resources>

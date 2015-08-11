@@ -1,0 +1,17 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat">
+        <item name="android:windowNoTitle">true</item>
+        <item name="windowActionBar">false</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="AppTwo" parent="AppTheme.ActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+    <style name="PhotoGrid">
+        <item name="android:drawSelectorOnTop">true</item>
+        <item name="android:listSelector">@drawable/photogrid_selector</item>
+    </style>
+</resources>

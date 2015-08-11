@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:fbutton="http://schemas.android.com/apk/res-auto"
+    android:background="#ffd8eecc"
+    android:stretchColumns="*"
+    android:shrinkColumns="0,1"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+    <TableRow android:background="#cccccc">
+        <TextView android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/begin_date"
+            android:gravity="center_horizontal"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:background="@color/insta" />
+        <TextView android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/end_date"
+            android:gravity="center_horizontal"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:background="@color/vk" />
+    </TableRow>
+    <TableRow
+        android:paddingTop="1dp">
+       <LinearLayout
+           android:orientation="horizontal"
+           android:background="@color/insta"
+           android:touchscreenBlocksFocus="true">
+           <info.hoang8f.widget.FButton
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:text="@string/date_text"
+               android:onClick="showDatePickerDialog"
+               android:id="@+id/buttonSelectBeginDate"
+               fbutton:buttonColor="@color/fbutton_color_green_sea"
+               fbutton:shadowColor="@color/vk"
+               fbutton:shadowEnabled="true"
+               fbutton:shadowHeight="5dp"
+               fbutton:cornerRadius="5dp"
+               android:layout_weight="0" />
+           <TextView
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:paddingLeft="6dp"
+               android:layout_gravity="center"
+               android:id="@+id/bDate" />
+       </LinearLayout>
+        <LinearLayout
+            android:orientation="horizontal"
+            android:background="@color/vk">
+            <info.hoang8f.widget.FButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:onClick="showDateEndPickerDialog"
+                android:id="@+id/buttonSelectEndDate"
+                android:layout_gravity="center_horizontal"
+                fbutton:buttonColor="@color/fbutton_color_sun_flower"
+                fbutton:shadowColor="@color/fbutton_color_green_sea"
+                fbutton:shadowEnabled="true"
+                fbutton:shadowHeight="5dp"
+                fbutton:cornerRadius="5dp"
+                android:text="@string/date_text" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingLeft="6dp"
+                android:layout_gravity="center"
+                android:id="@+id/eDate" />
+        </LinearLayout>
+    </TableRow>
+    <TableRow android:paddingTop="1dp" >
+        <LinearLayout
+            android:orientation="horizontal"
+            android:background="@color/insta">
+            <info.hoang8f.widget.FButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/time_btn"
+                android:onClick="showTimePickerDialog"
+                android:id="@+id/buttonSelectBeginTime"
+
+                fbutton:buttonColor="@color/fbutton_color_green_sea"
+                fbutton:shadowColor="@color/vk"
+                fbutton:shadowEnabled="true"
+                fbutton:shadowHeight="5dp"
+                fbutton:cornerRadius="5dp"
+                android:layout_gravity="center_horizontal" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingLeft="6dp"
+                android:layout_gravity="center"
+                android:id="@+id/bTime" />
+        </LinearLayout>
+        <LinearLayout
+            android:orientation="horizontal"
+            android:background="@color/vk">
+            <info.hoang8f.widget.FButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/time_btn"
+                android:onClick="showTimeEndPickerDialog"
+                android:id="@+id/buttonSelectEndTime"
+                android:layout_gravity="center_horizontal"
+                fbutton:buttonColor="@color/fbutton_color_sun_flower"
+                fbutton:shadowColor="@color/fbutton_color_green_sea"
+                fbutton:shadowEnabled="true"
+                fbutton:shadowHeight="5dp"
+                fbutton:cornerRadius="5dp"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingLeft="6dp"
+                android:id="@+id/eTime"
+                android:layout_gravity="center"/>
+        </LinearLayout>
+    </TableRow>
+    <TableRow android:paddingTop="2dp"
+        android:layout_width="match_parent">
+        <info.hoang8f.widget.FButton
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/time_apply"
+            android:onClick="showTimeEndPickerDialog"
+            android:id="@+id/setTimeDate"
+            android:layout_gravity="center_horizontal"
+            android:layout_span="2"
+            fbutton:buttonColor="@color/twitter"
+            fbutton:shadowColor="@color/vk"
+            fbutton:shadowEnabled="true"
+            fbutton:shadowHeight="5dp"
+            fbutton:cornerRadius="5dp"
+
+            android:background="@color/ColorPrimaryDark" />
+    </TableRow>
+
+</TableLayout>
